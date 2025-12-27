@@ -69,8 +69,8 @@ I actively contribute to organizations focused on health-tech and developer tool
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ramzan-Khan-786&show_icons=true&theme=tokyonight&border_radius=10" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ramzan-Khan-786&layout=compact&theme=tokyonight&border_radius=10" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ramzan-Khan-786&show_icons=true&theme=tokyonight&border_radius=10" height="170" width="100%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ramzan-Khan-786&layout=compact&theme=tokyonight&border_radius=10" height="170"  width="100%"/>
 </div>
 
 ---
