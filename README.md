@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Hi,%20I'm%20Ramzan%20👋&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3fc411&height=200&section=header&text=Hi,%20I'm%20Ramzan%20👋&fontSize=70&animation=fadeIn" />
 
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&width=435&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=47db13&width=435&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
     </a>
   </h1>
 
@@ -83,3 +83,4 @@ I actively contribute to organizations focused on health-tech and developer tool
 </div>
 
 ---
+
