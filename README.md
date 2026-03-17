@@ -1,5 +1,9 @@
 <div align="center">
+<<<<<<< HEAD
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3fc411&height=200&section=header&text=Hi,%20I'm%20Ramzan%20Khan" width="100%"&fontSize=70&animation=fadeIn" />
+=======
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3fc411&height=200&section=header&text=Hi,%20I'm%20Ramzan%20👋&fontSize=70&animation=fadeIn" />
+>>>>>>> c7ff9fa91cb79ad077af469410458537452a4221
 
   <h1>
     <a href="https://git.io/typing-svg">
@@ -88,4 +92,11 @@ I am a Software Engineering student focused on building high-performance applica
   ### "Code is like humor. When you have to explain it, it’s bad."
   *— Cory House*
 
+<<<<<<< HEAD
 </div>
+=======
+</div>
+
+---
+
+>>>>>>> c7ff9fa91cb79ad077af469410458537452a4221
