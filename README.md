@@ -1,9 +1,5 @@
 <div align="center">
-<<<<<<< HEAD
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3fc411&height=200&section=header&text=Hi,%20I'm%20Ramzan%20Khan" width="100%"&fontSize=70&animation=fadeIn" />
-=======
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3fc411&height=200&section=header&text=Hi,%20I'm%20Ramzan%20👋&fontSize=70&animation=fadeIn" />
->>>>>>> c7ff9fa91cb79ad077af469410458537452a4221
 
   <h1>
     <a href="https://git.io/typing-svg">
@@ -62,7 +58,7 @@ I am a Software Engineering student focused on building high-performance applica
 #### 🔧 Tools & Logic
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Multi-Translate Ext.](https://github.com/Ramzan-Khan-786/multi-translate-extension)** | A custom browser tool built for real-time reading assistance and multi-language translation. | JavaScript |
+| **[Multi-Translate Ext.](https://github.com/Ramzan-Khan-786/multi-translate-extension)** | A custom browser tool built for real-time reading assistance and multi-language translation (For Personal Use). | JavaScript |
 | **[Railway Booking](https://github.com/Ramzan-Khan-786/railway-ticket-booking)** | A terminal-based reservation logic focusing on algorithmic efficiency and data structure optimization. | C++ |
 
 ---
@@ -92,11 +88,4 @@ I am a Software Engineering student focused on building high-performance applica
   ### "Code is like humor. When you have to explain it, it’s bad."
   *— Cory House*
 
-<<<<<<< HEAD
 </div>
-=======
-</div>
-
----
-
->>>>>>> c7ff9fa91cb79ad077af469410458537452a4221
